@@ -2,3 +2,6 @@ Apple
 Banana
 Orange
 Mango
+Other added fruits are:
+Pineapple
+Grapes
